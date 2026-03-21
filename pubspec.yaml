@@ -1,0 +1,30 @@
+name: bilal_app
+description: Bilal - Always-on tablet prayer times display
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^3.3.1
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  dio: ^5.4.3+1
+  intl: ^0.20.2
+  wakelock_plus: ^1.2.8
+  screen_brightness: ^2.1.7
+  google_fonts: ^8.0.2
+  audioplayers: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
