@@ -2,6 +2,9 @@
 
 Always-on tablet display for prayer times.
 
+![69BFC54A-3C28-4E80-83DF-55B856F78A7C_1_101_o](https://github.com/user-attachments/assets/7282ec57-bd45-451f-9a28-da9b445a5774)
+
+
 ## Features
 
 - **Tablet-optimized** landscape layout with large, readable typography
