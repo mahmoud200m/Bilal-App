@@ -72,3 +72,7 @@ website and apps. This gives the exact times that mosques actually use
 - Tap the **gear icon** (top-left) to open settings
 - Settings allow changing mosque, adjusting brightness, toggling athan per prayer
 - The app auto-refreshes the calendar weekly
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
